@@ -1,6 +1,21 @@
-# ezy_app
+# 📱 Flutter Sign In Screen
 
-A new Flutter project.
+This project contains a **Sign In screen** built with Flutter. It provides a clean and user-friendly interface for logging into the app.
+
+## ✨ Features
+
+- Email and password input fields
+- Sign In button with interaction
+- Simple and clean UI design
+- Mobile-first responsive layout
+- Built with Flutter and Dart
+
+
+## 🧰 Technologies Used
+
+- Flutter 3.x
+- Dart
+- Material Design widgets
 
 ## Getting Started
 
