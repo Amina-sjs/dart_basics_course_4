@@ -1,8 +1,8 @@
-# 📱 Flutter Sign In Screen
+#  Flutter Sign In Screen
 
 This project contains a **Sign In screen** built with Flutter. It provides a clean and user-friendly interface for logging into the app.
 
-## ✨ Features
+##  Features
 
 - Email and password input fields
 - Sign In button with interaction
@@ -11,7 +11,7 @@ This project contains a **Sign In screen** built with Flutter. It provides a cle
 - Built with Flutter and Dart
 
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Flutter 3.x
 - Dart
