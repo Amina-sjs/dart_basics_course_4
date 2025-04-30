@@ -1,0 +1,16 @@
+
+
+name: ezy_app
+description: Flutter project for registration and welcome screens
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/ezy_logo.png
